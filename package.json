@@ -1,0 +1,39 @@
+{
+  "name": "macage",
+  "description": "Find out when your Mac first booted up. The start of serious Macage.",
+  "version": "0.1.2",
+  "homepage": "https://github.com/mustafar/macage",
+  "author": {
+    "name": "Mustafa Rizvi",
+    "email": "mstfrzv@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mustafar/macage.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mustafar/macage/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/mustafar/macage/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "./lib/macage",
+  "bin": {
+    "macage": "./lib/macage.js"
+  },
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "dependencies": {
+    "moment": "=2.5.1"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4",
+    "grunt-contrib-watch": "~0.5.3",
+    "grunt": "~0.4.2"
+  },
+  "keywords": []
+}
