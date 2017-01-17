@@ -3,7 +3,7 @@
 Find out when your Mac first booted up. The start of serious Macage.
 
 ## Getting Started
-Install the module with: `npm install macage`
+Install the module with: `npm install -g macage`
 
 ## Examples
 ```
