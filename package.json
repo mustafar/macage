@@ -1,7 +1,7 @@
 {
   "name": "macage",
   "description": "Find out when your Mac first booted up. The start of serious Macage.",
-  "version": "0.2.1",
+  "version": "1.0.1",
   "homepage": "https://github.com/mustafar/macage",
   "author": {
     "name": "Mustafa Rizvi",
